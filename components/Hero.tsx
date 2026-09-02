@@ -42,7 +42,7 @@ export default function Hero({ onOpenCommandPalette, onOpenResumeModal }: HeroPr
   }, []);
 
   const handleCopyCmd = () => {
-    navigator.clipboard.writeText('npx alexvance-portfolio');
+    navigator.clipboard.writeText('npx shifafatima-portfolio');
     setCopiedCmd(true);
     if (soundEnabled) playSound('success');
     triggerConfetti();
@@ -159,7 +159,7 @@ export default function Hero({ onOpenCommandPalette, onOpenResumeModal }: HeroPr
                 <div className="flex items-center gap-2 overflow-hidden">
                   <Terminal className="w-4 h-4 text-cyan-400 shrink-0" />
                   <span className="text-zinc-500 select-none">$</span>
-                  <span className="text-zinc-300 truncate">npx alexvance-portfolio</span>
+                  <span className="text-zinc-300 truncate">npx shifafatima-portfolio</span>
                 </div>
                 <button
                   onClick={handleCopyCmd}
@@ -214,7 +214,7 @@ export default function Hero({ onOpenCommandPalette, onOpenResumeModal }: HeroPr
                     <span className="text-purple-400">export const</span> <span className="text-blue-400">engineer</span> = &#123;
                   </div>
                   <div className="pl-4">
-                    <span className="text-zinc-400">name:</span> <span className="text-emerald-300">&apos;Alex Vance&apos;</span>,
+                    <span className="text-zinc-400">name:</span> <span className="text-emerald-300">&apos;Shifa Fatima&apos;</span>,
                   </div>
                   <div className="pl-4">
                     <span className="text-zinc-400">specialties:</span> [

@@ -166,7 +166,7 @@ export default function About() {
                   <div className="flex items-center justify-between pb-3 border-b border-white/10 mb-4">
                     <div className="flex items-center gap-2 text-zinc-400">
                       <Terminal className="w-4 h-4 text-cyan-400" />
-                      <span>alex@workstation ~ /quick-facts</span>
+                      <span>shifa@workstation ~ /quick-facts</span>
                     </div>
                     <span className="text-[10px] px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-300">active</span>
                   </div>

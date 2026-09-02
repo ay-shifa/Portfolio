@@ -98,13 +98,13 @@ export default function Navbar({ onOpenCommandPalette, onOpenResumeModal }: Navb
           >
             <div className="relative flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-500 via-blue-600 to-indigo-600 p-[1px] shadow-lg shadow-cyan-500/20 group-hover:shadow-cyan-500/40 transition-all duration-300">
               <div className="w-full h-full bg-[#0b0f17] rounded-[11px] flex items-center justify-center font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-400 text-base">
-                AV
+                SF
               </div>
               <span className="absolute -top-1 -right-1 w-3 h-3 bg-emerald-500 rounded-full border-2 border-[#0b0f17] animate-pulse"></span>
             </div>
             <div className="hidden sm:block text-left">
               <span className="font-semibold text-sm tracking-tight block text-white/95 group-hover:text-cyan-400 transition-colors">
-                Alex Vance
+                Shifa Fatima
               </span>
               <span className="text-[11px] text-zinc-400 font-mono tracking-wider">
                 Full-Stack & AI

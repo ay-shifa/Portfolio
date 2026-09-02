@@ -34,8 +34,8 @@ export default function Footer() {
           {/* Left Brand info */}
           <div className="md:col-span-5 space-y-2">
             <div className="flex items-center gap-2 font-bold text-lg text-white">
-              <span className="p-1 rounded-lg bg-gradient-to-br from-cyan-500 to-blue-600 text-slate-950 text-xs font-mono">AV</span>
-              <span>Alex Vance &bull; Portfolio</span>
+              <span className="p-1 rounded-lg bg-gradient-to-br from-cyan-500 to-blue-600 text-slate-950 text-xs font-mono">SF</span>
+              <span>Shifa Fatima &bull; Portfolio</span>
             </div>
             <p className="text-xs text-zinc-400 max-w-sm leading-relaxed">
               Crafting intelligent AI systems, high-throughput microservices, and pixel-perfect web interfaces.
@@ -67,7 +67,7 @@ export default function Footer() {
         {/* Bottom copyright & Stack info */}
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-zinc-500 gap-4 font-mono">
           <div>
-            &copy; {new Date().getFullYear()} Alex Vance. Engineered with Next.js 14, Tailwind CSS & TypeScript.
+            &copy; {new Date().getFullYear()} Shifa Fatima. Engineered with Next.js 14, Tailwind CSS & TypeScript.
           </div>
           <div className="flex items-center gap-4">
             <span className="hover:text-zinc-400 transition-colors">v2.4.0 (Latest Release)</span>

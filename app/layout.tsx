@@ -3,8 +3,8 @@ import './globals.css';
 import { ThemeProvider } from '@/components/ThemeContext';
 
 export const metadata: Metadata = {
-  title: 'Alex Vance — Senior Full-Stack Engineer & AI Systems Architect',
-  description: 'Portfolio of Alex Vance: Senior Full-Stack Software Engineer & AI Systems Architect specializing in Next.js 14, TypeScript, Python FastAPI, Vector Search, and resilient distributed cloud infrastructure.',
+  title: 'Shifa Fatima — Senior Full-Stack Engineer & AI Systems Architect',
+  description: 'Portfolio of Shifa Fatima: Senior Full-Stack Software Engineer & AI Systems Architect specializing in Next.js 14, TypeScript, Python FastAPI, Vector Search, and resilient distributed cloud infrastructure.',
   keywords: [
     'Full-Stack Developer',
     'Next.js Portfolio',
@@ -15,9 +15,9 @@ export const metadata: Metadata = {
     'Software Engineer Portfolio',
     'Distributed Systems'
   ],
-  authors: [{ name: 'Alex Vance' }],
+  authors: [{ name: 'Shifa Fatima' }],
   openGraph: {
-    title: 'Alex Vance — Senior Full-Stack Engineer & AI Systems Architect',
+    title: 'Shifa Fatima — Senior Full-Stack Engineer & AI Systems Architect',
     description: 'High-performance web applications, intelligent AI workflows, and resilient cloud architectures.',
     type: 'website',
     locale: 'en_US',

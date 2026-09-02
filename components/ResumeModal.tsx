@@ -84,7 +84,7 @@ export default function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
               </span>
               <span className="flex items-center gap-1">
                 <Globe className="w-3.5 h-3.5 text-cyan-400" />
-                alexvance.dev
+                ayshifa.tech
               </span>
             </div>
           </div>

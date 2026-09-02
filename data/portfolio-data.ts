@@ -1,7 +1,7 @@
 import { DeveloperProfile, Project, SkillCategory, Experience, Testimonial, Article } from '@/types/portfolio';
 
 export const developerProfile: DeveloperProfile = {
-  name: 'Alex Vance',
+  name: 'Shifa Fatima',
   title: 'Senior Full-Stack Engineer & AI Architect',
   roles: [
     'Senior Full-Stack Engineer',
@@ -30,17 +30,17 @@ export const developerProfile: DeveloperProfile = {
     { label: 'Uptime & SLA', value: '99.98%', subtext: 'Across managed systems' }
   ],
   socials: [
-    { name: 'GitHub', url: 'https://github.com', icon: 'Github', handle: '@alexvance-dev' },
-    { name: 'LinkedIn', url: 'https://linkedin.com', icon: 'Linkedin', handle: 'in/alexvance' },
-    { name: 'X / Twitter', url: 'https://twitter.com', icon: 'Twitter', handle: '@alexvance_tech' },
-    { name: 'Discord', url: 'https://discord.com', icon: 'MessageSquare', handle: 'alexvance#1024' },
-    { name: 'Email', url: 'mailto:alex.vance.dev@example.com', icon: 'Mail', handle: 'alex.vance.dev@example.com' }
+    { name: 'GitHub', url: 'https://github.com/ay-shifa', icon: 'Github', handle: '@ay-shifa' },
+    { name: 'LinkedIn', url: 'https://linkedin.com', icon: 'Linkedin', handle: 'in/shifafatima' },
+    { name: 'X / Twitter', url: 'https://twitter.com', icon: 'Twitter', handle: '@shifafatima' },
+    { name: 'Discord', url: 'https://discord.com', icon: 'MessageSquare', handle: 'shifafatima' },
+    { name: 'Email', url: 'mailto:shifa.ay12@gmail.com', icon: 'Mail', handle: 'shifa.ay12@gmail.com' }
   ],
   contact: {
-    email: 'alex.vance.dev@example.com',
+    email: 'shifa.ay12@gmail.com',
     phone: '+1 (415) 890-3421',
     calendly: 'https://calendly.com',
-    discord: 'alexvance#1024'
+    discord: 'shifafatima'
   }
 };
 
@@ -369,7 +369,7 @@ export const testimonialsData: Testimonial[] = [
     role: 'VP of Engineering',
     company: 'Apex Cloud Solutions',
     avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200',
-    content: "Alex is one of the rarest engineers who pairs extraordinary deep-stack architectural prowess with an obsessive eye for UI craft. He delivered our Next.js analytics suite 3 weeks ahead of schedule with 99.99% uptime in production.",
+    content: "Shifa is one of the rarest engineers who pairs extraordinary deep-stack architectural prowess with an obsessive eye for UI craft. She delivered our Next.js analytics suite 3 weeks ahead of schedule with 99.99% uptime in production.",
     rating: 5,
     highlight: '3 weeks ahead of schedule & flawless architecture',
     projectRelation: 'Telemetry Dashboard Migration'
@@ -380,7 +380,7 @@ export const testimonialsData: Testimonial[] = [
     role: 'Chief Technology Officer',
     company: 'Synthetix AI',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200',
-    content: "Working with Alex transformed our AI product roadmap. His mastery of LLM agent architectures, vector indexing, and real-time streaming interfaces allowed us to close our Series A funding with extreme confidence.",
+    content: "Working with Shifa transformed our AI product roadmap. Her mastery of LLM agent architectures, vector indexing, and real-time streaming interfaces allowed us to close our Series A funding with extreme confidence.",
     rating: 5,
     highlight: 'Instrumental in our Series A milestone',
     projectRelation: 'OmniStack Agent Engine'
@@ -391,7 +391,7 @@ export const testimonialsData: Testimonial[] = [
     role: 'Product Director',
     company: 'HyperScale Commerce',
     avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=200',
-    content: "The headless storefront Alex built achieved a 100/100 Lighthouse score and immediately converted +34% higher on launch day. His communication is crisp, proactive, and deeply collaborative.",
+    content: "The headless storefront Shifa built achieved a 100/100 Lighthouse score and immediately converted +34% higher on launch day. Her communication is crisp, proactive, and deeply collaborative.",
     rating: 5,
     highlight: '+34% conversion boost & perfect Core Web Vitals',
     projectRelation: 'Headless Storefront Platform'

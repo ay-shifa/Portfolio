@@ -136,7 +136,7 @@ export default function CommandPalette({ isOpen, onClose, onOpenResumeModal }: C
     },
     {
       id: 'nav-contact',
-      title: 'Contact / Hire Alex Vance',
+      title: 'Contact / Hire Shifa Fatima',
       category: 'Navigation',
       icon: <Mail className="w-4 h-4 text-rose-400" />,
       action: () => {
@@ -212,7 +212,7 @@ export default function CommandPalette({ isOpen, onClose, onOpenResumeModal }: C
         {/* Footer shortcuts */}
         <div className="p-3 bg-black/40 border-t border-white/10 flex items-center justify-between text-[11px] text-zinc-400 font-mono">
           <span>Navigate with mouse or enter</span>
-          <span className="text-cyan-400">Alex Vance &bull; Portfolio 2026</span>
+          <span className="text-cyan-400">Shifa Fatima &bull; Portfolio 2026</span>
         </div>
       </div>
     </div>
